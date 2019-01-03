@@ -1,0 +1,7 @@
+publish_db:
+    MSBuild_path: C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe
+    target_database: test_ed_data
+    connection_string: Data Source=.;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=True
+    template_path: C:/users/n-wwynn/Desktop/publish_template.xml
+    publish_xml: C:/users/n-wwynn/Desktop/my_ed_data.publish.xml
+    sqlproj_path: C:/Users/n-wwynn/code/ospi/data_load/ed_data/ed_data.sqlproj
