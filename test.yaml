@@ -1,8 +1,0 @@
-server:
-    endpoint: 0.0.0.0
-    database: test
-    username: sa
-
-file:
-    local_filename: /Users/bill/code/dataquest/data/food_info.csv
-    server_filename : /food_info.csv
